@@ -1,10 +1,13 @@
 # Food search App
 
 # Bloc Pattern State Management
-## In this project, food search functionality will be implemented
+
+## A simple application where REST API is integraded and search functionality implemented using bloc pattern.
+
+The Homepage will display a list of Foods fetched from Rest API and User can see detail of any specific food. Also User can search any food and detail of that food.
 
 # Features
-search functionality
+`rest api`   `detail`    `search`   `search detail`
 
 # Showcase
 
@@ -18,4 +21,26 @@ search functionality
 
 # Version
 Flutter 3.13.4
+
+
+
+# Stacks
+
+`Dart`
+
+`Flutter`
+
+`Rest API`
+
+`Bloc pattern`
+
+
+
+# Dependencies
+
+- **flutter_bloc**
+- **equatable**
+- **http**
+
+
 
