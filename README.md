@@ -7,7 +7,7 @@
 The Homepage will display a list of Foods fetched from Rest API and User can see detail of any specific food. Also User can search any food and detail of that food.
 
 # Features
-`rest api`   `detail`    `search`   `search detail`
+`list of food`   `food details`    `search result`   `search detail`
 
 # Showcase
 
