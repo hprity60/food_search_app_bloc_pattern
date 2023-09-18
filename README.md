@@ -1,16 +1,46 @@
-# grocerie_app
+# Food search App
 
-A new Flutter project.
+# Bloc Pattern State Management
 
-## Getting Started
+## A simple application where REST API is integraded and search functionality implemented using bloc pattern.
 
-This project is a starting point for a Flutter application.
+The Homepage will display a list of Foods fetched from Rest API and User can see detail of any specific food. Also User can search any food and detail of that food.
 
-A few resources to get you started if this is your first Flutter project:
+# Features
+`rest api`   `detail`    `search`   `search detail`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Showcase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Food List Page | Detail Page |
+|:-------:|:-------:|
+| [![Image 1](https://github.com/hprity60/food_search_app_bloc_pattern/assets/104090144/d3a986cc-f504-44e2-844c-6a0125f740b5)](https://github.com/hprity60/food_search_app_bloc_pattern/assets/104090144/d3a986cc-f504-44e2-844c-6a0125f740b5) | [![Image 2](https://github.com/hprity60/food_search_app_bloc_pattern/assets/104090144/b174a5ba-d296-4dea-8ac5-34f8444c9383)](https://github.com/hprity60/food_search_app_bloc_pattern/assets/104090144/b174a5ba-d296-4dea-8ac5-34f8444c9383) |
+ 
+| Search Result Page | Search Detail Page |
+|:-------:|:-------:|
+| [![Image 3](https://github.com/hprity60/food_search_app_bloc_pattern/assets/104090144/a44e968a-0073-4e4d-b693-ea9bb0237343)](https://github.com/hprity60/food_search_app_bloc_pattern/assets/104090144/a44e968a-0073-4e4d-b693-ea9bb0237343) | [![Image 4](https://github.com/hprity60/food_search_app_bloc_pattern/assets/104090144/0f7c47a9-2ea6-47b6-b30f-5508c3ae0fa8)](https://github.com/hprity60/food_search_app_bloc_pattern/assets/104090144/0f7c47a9-2ea6-47b6-b30f-5508c3ae0fa8) |
+
+# Version
+Flutter 3.13.4
+
+
+
+# Stacks
+
+`Dart`
+
+`Flutter`
+
+`Rest API`
+
+`Bloc pattern`
+
+
+
+# Dependencies
+
+- **flutter_bloc**
+- **equatable**
+- **http**
+
+
+
