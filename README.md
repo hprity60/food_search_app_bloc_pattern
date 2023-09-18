@@ -34,6 +34,8 @@ Flutter 3.13.4
 
 `Bloc pattern`
 
+`Github Action (CI/CD)`
+
 
 
 # Dependencies
